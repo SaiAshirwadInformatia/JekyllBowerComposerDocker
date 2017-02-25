@@ -1,2 +1,5 @@
-# JekyllBowerComposerDocker
-Docker for generating sites using Jekyll, Bower and Composer https://hub.docker.com/r/saiashirwadinformatia/jekyll-bower-composer/ Edit
+# Docker Jekyll Bower Composer
+
+[![dockeri.co](http://dockeri.co/image/saiashirwadinformatia/jekyll-bower-composer)](https://registry.hub.docker.com/u/saiashirwadinformatia/jekyll-bower-composer/)
+
+Docker Image with Ruby, Node.js, Jekyll, Bundler, Bower, Composer installed
